@@ -8,3 +8,11 @@ Features
 - Shows humidity, wind speed, and feels-like temperature
 - Responsive design for desktop and mobile devices
 - Clean and user-friendly interface
+
+
+Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Weather API
