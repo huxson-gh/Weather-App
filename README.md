@@ -2,7 +2,7 @@
 A weather application which uses API to provide the location of a place. 
 
 
-Features:
+🚀 Features:
 
 - Search weather by city name
 - Displays current temperature and weather conditions
@@ -11,7 +11,7 @@ Features:
 - Clean and user-friendly interface
 
 
-Technologies Used:
+🛠️ Technologies Used:
 
 - HTML
 - CSS
@@ -19,7 +19,7 @@ Technologies Used:
 - Weather API
 
 
-Usage:
+🧪 Usage:
 
 - Enter a city name in the search bar.
 - Click the search button or press Enter.
